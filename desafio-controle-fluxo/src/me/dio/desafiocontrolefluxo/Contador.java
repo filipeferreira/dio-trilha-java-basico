@@ -1,6 +1,6 @@
-package dio.me.desafiocontrolefluxo;
+package me.dio.desafiocontrolefluxo;
 
-import dio.me.desafiocontrolefluxo.exceptions.ParametrosInvalidosException;
+import me.dio.desafiocontrolefluxo.exceptions.ParametrosInvalidosException;
 
 import java.util.Scanner;
 
