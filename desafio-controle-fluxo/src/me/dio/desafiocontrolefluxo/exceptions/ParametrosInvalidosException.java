@@ -1,4 +1,4 @@
-package dio.me.desafiocontrolefluxo.exceptions;
+package me.dio.desafiocontrolefluxo.exceptions;
 
 public class ParametrosInvalidosException extends Exception {
     public ParametrosInvalidosException(String message) {
